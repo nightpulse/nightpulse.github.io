@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /cp/
-Disallow: /staff/
+Disallow:
